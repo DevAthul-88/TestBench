@@ -22,7 +22,7 @@ This is a Windows desktop application built with **Flutter** using **fluent_ui**
 ### Run Locally
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/api-testing-tool.git
+   git clone https://github.com/yourusername/TestBench.git
    cd api-testing-tool
    ```
 2. Install dependencies:
